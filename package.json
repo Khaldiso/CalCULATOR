@@ -1,0 +1,20 @@
+{
+  "name": "fuel-consumption-calculator",
+  "version": "1.0.0",
+  "description": "A fuel consumption calculator for factories considering various fuel types and units.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "fuel",
+    "calculator",
+    "factory",
+    "consumption"
+  ],
+  "author": "",
+  "license": "ISC"
+}
